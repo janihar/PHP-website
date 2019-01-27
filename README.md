@@ -17,5 +17,11 @@ Things I learned :
 - Sessions. I saved user as a session for sign out. Plus you cannot inspect websites futher than sign in screen if you dont have session created which in this case means verified sign in. I Coul've used also some cookies but didnt feel as comfortable with them.
 
 
+Things to add/develop : 
 
+- Preventing SQL injection attacks as well as XSS (Cross site scripting). Very important part of web development.
+
+- Better user experience
+
+- More visual work in frontend side :)
 
